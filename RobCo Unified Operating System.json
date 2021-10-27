@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Overly_Pathetic#7417",
         "name": "RobCo Unified Operating System",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/OverlyPathetic\/Aliucord-RobCo-UOS-theme\/main\/RobCo%20Unified%20Operating%20System.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/707153652917207041\/902589509756125204\/piptec_18.jpeg"
